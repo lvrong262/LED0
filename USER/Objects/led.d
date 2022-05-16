@@ -1,0 +1,10 @@
+.\objects\led.o: ..\HARDWARE\LED\led.c
+.\objects\led.o: ..\HARDWARE\LED\led.h
+.\objects\led.o: ..\SYSTEM\sys\sys.h
+.\objects\led.o: ..\SYSTEM\sys\stm32f4xx.h
+.\objects\led.o: ..\SYSTEM\sys\core_cm4.h
+.\objects\led.o: E:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led.o: ..\SYSTEM\sys\core_cmInstr.h
+.\objects\led.o: ..\SYSTEM\sys\core_cmFunc.h
+.\objects\led.o: ..\SYSTEM\sys\core_cm4_simd.h
+.\objects\led.o: ..\SYSTEM\sys\system_stm32f4xx.h
